@@ -26,7 +26,4 @@ The app ingests live Google News RSS feeds, performs sentiment analysis using tr
 
 ## Quickstart
 
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/apple-event-media-dashboard.git
-cd apple-event-media-dashboard
+Clone the repository and start exploring the visualizations.
