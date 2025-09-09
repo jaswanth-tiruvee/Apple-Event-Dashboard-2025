@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib
+wordcloud
+feedparser
+tldextract
+nltk
+scikit-learn
+# Optional but recommended (set checkbox to use):
+transformers
+torch
+# Optional for advanced topics (enable in app):
+bertopic
+sentence-transformers
